@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="\.htaccess" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,6 +19,16 @@
       <mask>*.js</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>h</mask>
+      <mask>ht</mask>
+      <mask>hta</mask>
+      <mask>htac</mask>
+      <mask>htacc</mask>
+      <mask>htacce</mask>
+      <mask>htacces</mask>
+      <mask>htaccess</mask>
+      <mask>\htaccess</mask>
+      <mask>\.htaccess</mask>
     </recentFileMasks>
   </component>
 </application>
