@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="zpl-logo" type="PLAIN_TEXT" />
-      <mapping pattern="iOSbrewfile" type="PLAIN_TEXT" />
-      <mapping pattern="Brewfile" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
