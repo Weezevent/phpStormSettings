@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html.twig" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -13,10 +13,8 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.j</mask>
-      <mask>*.ph</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
-      <mask>*.p</mask>
       <mask>h</mask>
       <mask>ht</mask>
       <mask>hta</mask>
@@ -27,7 +25,6 @@
       <mask>htaccess</mask>
       <mask>\htaccess</mask>
       <mask>\.htaccess</mask>
-      <mask>*.php</mask>
       <mask>*.html</mask>
       <mask>*.html.</mask>
       <mask>*.html.t</mask>
@@ -35,6 +32,9 @@
       <mask>*.html.twif</mask>
       <mask>*.html.twi</mask>
       <mask>*.html.twig</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
