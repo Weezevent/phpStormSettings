@@ -6,7 +6,6 @@
     <recentFileMasks>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
       <mask>h</mask>
       <mask>ht</mask>
       <mask>hta</mask>
@@ -34,6 +33,7 @@
       <mask>*.yml</mask>
       <mask>*.yaml</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
