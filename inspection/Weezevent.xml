@@ -2,7 +2,6 @@
   <option name="myName" value="Weezevent" />
   <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="Jscs" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpClassNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_maxLength" value="0" />
   </inspection_tool>
