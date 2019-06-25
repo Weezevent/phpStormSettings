@@ -13,8 +13,8 @@
     <mask>*.mxml</mask>
     <mask>*.json</mask>
     <mask>*.md</mask>
-    <mask>*.js</mask>
     <mask>*.html.twig</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
