@@ -14,9 +14,9 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
+    <mask>*.json</mask>
     <mask>*.md</mask>
     <mask>*.html.twig</mask>
-    <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
   </component>
