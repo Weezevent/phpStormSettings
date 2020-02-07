@@ -1,4 +1,5 @@
 <application>
+  <component name="DaemonCodeAnalyzerSettings" profile="Weezevent" />
   <component name="EditorSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
