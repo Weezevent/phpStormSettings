@@ -11,6 +11,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.weezevent.com_js_components_bootstrap_css_bootstrap.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.weezevent.com_js_components_bootstrap_css_bootstrap.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="es5" type="javaScript">
       <properties>
         <sourceFilesUrls>
