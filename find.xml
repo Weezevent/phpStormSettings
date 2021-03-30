@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.html.twig" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -19,8 +19,8 @@
     <mask>*.less</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
-    <mask>*.html.twig</mask>
     <mask>*.sql</mask>
     <mask>*.php</mask>
+    <mask>*.html.twig</mask>
   </component>
 </application>
