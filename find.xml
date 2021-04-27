@@ -12,12 +12,12 @@
     <mask>*.module</mask>
     <mask>*.phtml</mask>
     <mask>*.ctp</mask>
-    <mask>*.css</mask>
     <mask>*.less</mask>
     <mask>*.json</mask>
     <mask>*.sql</mask>
     <mask>*.html.twig</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.css</mask>
   </component>
 </application>
