@@ -16,8 +16,8 @@
     <mask>*.css</mask>
     <mask>*.sql</mask>
     <mask>*.json</mask>
-    <mask>*.php</mask>
     <mask>*.html.twig</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
