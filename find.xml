@@ -15,10 +15,10 @@
     <mask>*.ctp</mask>
     <mask>*.less</mask>
     <mask>*.css</mask>
-    <mask>*.html.twig</mask>
     <mask>*.js</mask>
     <mask>*.sql</mask>
     <mask>*.json</mask>
+    <mask>*.html.twig</mask>
     <mask>*.php</mask>
   </component>
 </application>
